@@ -1,7 +1,7 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 import React from "react";
 import { useNavigate } from "react-router-dom";
-import { RiEyeLine, RiEyeOffLine } from "react-icons/ri"; // Import eye and eye-off icons
+import { RiEyeLine, RiEyeOffLine } from "react-icons/ri";
 import { toast } from "react-toastify";
 import useApi from "../hooks/useApi";
 
